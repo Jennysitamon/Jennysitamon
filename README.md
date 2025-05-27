@@ -1,9 +1,7 @@
-<!-- 🌈 Ola decorativa superior -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=dda0dd&height=100&section=header"/>
 </div>
 
-<!-- ✨ Título con corazón morado animado -->
 <h1 align="center" style="color:#b085f5">
   ¡Hola! Soy Jenyfer 💜
   <img src="https://emojicdn.elk.sh/💜" width="30" style="animation: beat 1.2s infinite; display:inline-block; vertical-align:middle;" />
@@ -22,15 +20,15 @@
 
 ---
 
-### 🌸 Sobre mí
+ 🌸 Sobre mí
 
 ✨ Me gusta crear sitios web visualmente atractivos  
 🎨 Apasionada por el diseño elegante y funcional  
 📚 Siempre aprendiendo algo nuevo  
 
----
 
-### 🌐 Mis redes sociales para que me sigaan plis:
+
+🌐 Mis redes sociales para que me sigaan plis:
 
 <p align="center">
   <a href="https://www.instagram.com/jenmoonf" target="_blank">
@@ -43,25 +41,17 @@
 
 ---
 
-### 💓 Corazoncito animado
-
-<p align="center">
-  <img src="https://media.giphy.com/media/kcKm2dd7C7z5u/giphy.gif" width="80"/>
-</p>
-
----
-
-### 🦄 Gatito unicornio feliz (porque sí jeje):
 
 <p align="center">
   <img src="https://media.giphy.com/media/2A75RyXVzzSI2bx4Gj/giphy.gif" width="200"/>
 </p>
+----
+<p align="center">
+  <strong>✨ Gracias por visitar mi perfil ✨</strong>  
+</p>
 
-<!-- 🌈 Ola decorativa inferior -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=dda0dd&height=100&section=footer"/>
 </div>
 
-<p align="center">
-  <strong>✨ Gracias por visitar mi perfil ✨</strong>  
-</p>
+
