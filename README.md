@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center" style="color:#b085f5">
-  ¡Hola! Soy Jenyfer 💜
+  ¡Hola! Soy Jenyfer
   <img src="https://emojicdn.elk.sh/💜" width="30" style="animation: beat 1.2s infinite; display:inline-block; vertical-align:middle;" />
 </h1>
 
@@ -39,13 +39,11 @@
   </a>
 </p>
 
----
-
 
 <p align="center">
   <img src="https://media.giphy.com/media/2A75RyXVzzSI2bx4Gj/giphy.gif" width="200"/>
 </p>
-----
+
 <p align="center">
   <strong>✨ Gracias por visitar mi perfil ✨</strong>  
 </p>
