@@ -24,9 +24,10 @@
 ✨ Me encanta crear sitios web que no solo se vean lindos, sino que también transmitan emociones  
 🎨 Soy muy creativa diseñando, siempre busco aportar ideas frescas y con buena vibra  
 💡 Me gusta colaborar en ambientes tranquilos donde fluyan las ideas, sin tanta presión jeje  
-🌈 Me inspiro en lo simple, lo estético y lo que conecta con las personas  
+🌈 Me inspiro en lo simple, lo estético y lo que conecta con las personas 
+🌮 Soy MEXICANAA
 
-🇲🇽 Soy mexicana
+
 🗣️ Español (nativo) & Inglés (en constante mejora)  
 🦉 En Duolingo llevo una racha de casí 600 días y más, un puntuaje bien pro, porque nunca dejo de aprender 💪 
 
