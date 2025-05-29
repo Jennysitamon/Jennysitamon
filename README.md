@@ -53,7 +53,7 @@ Mis redes sociales para que me sigaan plis:
 </p>
 
 <p align="center">
-  <strong>✨ Gracias por visitar mi perfil ✨</strong>  
+  <strong>✨ BYEEEE ✨</strong>  
 </p>
 
 <div align="center">
