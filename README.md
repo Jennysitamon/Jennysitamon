@@ -19,16 +19,20 @@
 </p>
 
 ---
+🌸 Sobre mí
 
- 🌸 Sobre mí
+✨ Me encanta crear sitios web que no solo se vean lindos, sino que también transmitan emociones  
+🎨 Soy muy creativa diseñando, siempre busco aportar ideas frescas y con buena vibra  
+💡 Me gusta colaborar en ambientes tranquilos donde fluyan las ideas, sin tanta presión jeje  
+🌈 Me inspiro en lo simple, lo estético y lo que conecta con las personas  
 
-✨ Me gusta crear sitios web visualmente atractivos  
-🎨 Apasionada por el diseño elegante y funcional  
-📚 Siempre aprendiendo algo nuevo  
+🇲🇽 Soy mexicana
+🗣️ Español (nativo) & Inglés (en constante mejora)  
+🦉 En Duolingo llevo una racha de casí 600 días y más, un puntuaje bien pro, porque nunca dejo de aprender 💪 
 
 
-
-🌐 Mis redes sociales para que me sigaan plis:
+---
+Mis redes sociales para que me sigaan plis:
 
 <p align="center">
   <a href="https://www.instagram.com/jenmoonf" target="_blank">
@@ -36,6 +40,9 @@
   </a>
   <a href="https://www.tiktok.com/@jeenmonf" target="_blank">
     <img src="https://img.shields.io/badge/TikTok-%23dda0dd?style=for-the-badge&logo=tiktok&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/jenyfer-mm-6912662b9" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%23b085f5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
