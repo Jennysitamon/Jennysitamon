@@ -3,12 +3,11 @@
 </div>
 
 <h1 align="center" style="color:#b085f5">
-  ¡Hola! Soy Jenyfer
-  <img src="https://emojicdn.elk.sh/💜" width="30" style="animation: beat 1.2s infinite; display:inline-block; vertical-align:middle;" />
+  ¡Holi! Soy Jeny
 </h1>
 
 <p align="center">
-  💖 Holi, solo soy una girl en este mundo tan duro de la tecno, me gusta el diseño minimalista y ser creativaa jeje.  
+  Solo soy una girl en este mundo tan duro de la tecno, me gusta el diseño minimalista y ser creativaa jeje.  
 </p>
 
 <p align="center">
@@ -19,9 +18,9 @@
 </p>
 
 ---
-🌸 Sobre mí
+Yo
 
-✨ Me encanta crear sitios web que no solo se vean lindos, sino que también transmitan emociones  
+✨ Me gusta crear sitios web atractivos y lindos
 🎨 Soy muy creativa diseñando, siempre busco aportar ideas frescas y con buena vibra  
 💡 Me gusta colaborar en ambientes tranquilos donde fluyan las ideas, sin tanta presión jeje  
 🌈 Me inspiro en lo simple, lo estético y lo que conecta con las personas 
@@ -49,11 +48,11 @@ Mis redes sociales para que me sigaan plis:
 
 
 <p align="center">
-  <img src="https://media.giphy.com/media/2A75RyXVzzSI2bx4Gj/giphy.gif" width="200"/>
+  <img src="https://preview.redd.it/que-har%C3%ADan-si-les-llegar%C3%A1-este-mensaje-v0-z3aofu7sqd7f1.png?auto=webp&s=80666f3424e0ba1f3ffc8b32b3aa75f9e9e99596" width="200"/>
 </p>
 
 <p align="center">
-  <strong>✨ BYEEEE ✨</strong>  
+  <strong>✨ Baaaiii ✨</strong>  
 </p>
 
 <div align="center">
