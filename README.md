@@ -21,6 +21,7 @@
 Yo
 
 ✨ Me gusta crear sitios web atractivos y lindos
+
 🎨 Soy muy creativa diseñando, siempre busco aportar ideas frescas y con buena vibra  
 💡 Me gusta colaborar en ambientes tranquilos donde fluyan las ideas, sin tanta presión jeje  
 🌈 Me inspiro en lo simple, lo estético y lo que conecta con las personas 
